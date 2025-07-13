@@ -8,6 +8,7 @@ botones_estandar:
     politica de privacidad: 📄 Política de Privacidad
     aviso legal: ⚖️ Aviso Legal
   volver: 🔙 Volver
+  
 dialogos_estandar:
   menu principal: |-
     Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela.
@@ -125,3 +126,6 @@ dialogos_estandar:
     • El uso de este bot implica la aceptación de sus condiciones de uso, así como\
     \ del respeto a los valores de transparencia, libertad de expresión responsable\
     \ y colaboración ciudadana.\n    "
+  ayuda: "\n *Hola. El único comando disponible, además de* `/help` *(que estás leyendo ahora), es* `/start`. \n
+    \n Esto se ha hecho con el objetivo de simplificar el uso del bot. \n
+    \n Puedes navegar por los distintos menús que aparecerán al iniciarlo. Simplemente haz clic en el botón que te interese. ¡Y listo!\n    "
