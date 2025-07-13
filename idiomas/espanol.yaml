@@ -17,7 +17,6 @@ botones_estandar:
 dialogos_estandar:
   menu principal: |-
     Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela.
-  voz ciudadana: En este apartado encontrara información escrita por los usuarios del bot, antes de escribir se ruega que se lea las normas de esta sección.
   quienes somos: "\n*¿Quiénes somos?*\nSomos un proyecto ciudadano e independiente\
     \ que nació de una necesidad urgente: acceder a información confiable, clara y\
     \ sin censura sobre lo que ocurre en Venezuela. En un contexto donde la desinformación,\
@@ -134,3 +133,12 @@ dialogos_estandar:
   ayuda: "\n *Hola. El único comando disponible, además de* `/help` *(que estás leyendo ahora), es* `/start`. \n
     \n Esto se ha hecho con el objetivo de simplificar el uso del bot. \n
     \n Puedes navegar por los distintos menús que aparecerán al iniciarlo. Simplemente haz clic en el botón que te interese. ¡Y listo!\n    "
+  voz ciudadana: "*Voz Ciudadana* \n
+    \n Esta es la sección donde cualquier persona puede aportar información relevante sobre la realidad del país.\
+    \ Aquí se pueden compartir hechos, historias personales y opiniones de forma libre y descentralizada.\n
+    \n Cada publicación será clasificada en: \n
+    \n • *Denuncias:* Requieren pruebas claras y serán revisadas con especial rigor. Por motivos técnicos, \
+    \ este tipo de aportes deben enviarse por correo electrónico: v.back@outlook.es \n
+    \n • *Historias:* Testimonios que ayudan a comprender mejor el día a día de los ciudadanos. \n
+    \n • *Opiniones:* Reflexiones personales que enriquecen el debate público, aunque no cuenten como fuente verificable. \n
+    \n Queremos que la verdad tenga voz, y que esa voz sea la del pueblo. Comparte con responsabilidad."
