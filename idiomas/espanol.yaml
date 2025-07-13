@@ -8,6 +8,11 @@ botones_estandar:
     politica de privacidad: 📄 Política de Privacidad
     aviso legal: ⚖️ Aviso Legal
   volver: 🔙 Volver
+  voz_ciudadana:
+    denuncias: 📢 Denuncias
+    historias: 📖 Historias
+    opiniones: 💭 Opiniones
+    crear articulo: ✍️ Crear articulo
   
 dialogos_estandar:
   menu principal: |-
