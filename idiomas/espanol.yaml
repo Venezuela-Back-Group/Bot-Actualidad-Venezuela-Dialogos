@@ -1,0 +1,127 @@
+botones_estandar:
+  menu principal:
+    actualidad: 🗞️ Actualidad
+    noticias pasadas: 📜 Noticias Pasadas
+    voz ciudadana: 📢 Voz Ciudadana
+    quienes somos: 👤 ¿Quiénes somos?
+    preguntas frecuentes: ❓ Preguntas Frecuentes
+    politica de privacidad: 📄 Política de Privacidad
+    aviso legal: ⚖️ Aviso Legal
+  volver: 🔙 Volver
+dialogos_estandar:
+  menu principal: |-
+    Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela.
+  voz ciudadana: En este apartado encontrara información escrita por los usuarios del bot, antes de escribir se ruega que se lea las normas de esta sección.
+  quienes somos: "\n*¿Quiénes somos?*\nSomos un proyecto ciudadano e independiente\
+    \ que nació de una necesidad urgente: acceder a información confiable, clara y\
+    \ sin censura sobre lo que ocurre en Venezuela. En un contexto donde la desinformación,\
+    \ la propaganda y el bloqueo de medios se han vuelto comunes, decidimos crear\
+    \ una alternativa abierta, descentralizada y accesible para todos.\n\nNuestra\
+    \ misión es facilitar el acceso a noticias relacionadas con Venezuela, de forma\
+    \ clara, organizada y actualizada. Queremos que cualquier persona —dentro o fuera\
+    \ del país— pueda entender lo que está pasando, sin ruido ni distracciones.\n\n\
+    Soñamos con un futuro donde la información libre y verificada esté al alcance\
+    \ de todos. Donde las voces silenciadas puedan ser escuchadas. Donde la memoria\
+    \ histórica no se pierda.\n\nNo somos una empresa ni una organización tradicional.\
+    \ Somos ciudadanos comunes que creemos en la libertad de expresión, en el derecho\
+    \ a saber y en el poder de las redes para crear espacios más justos y participativos.\
+    \ Este proyecto es colaborativo, horizontal y en constante evolución.\n\n*Nuestros\
+    \ objetivos*\n• *Todo en un solo lugar:* Recopilamos y clasificamos noticias relevantes\
+    \ sobre Venezuela, provenientes de múltiples fuentes.\n• *Contra la censura:*\
+    \ Creamos un espacio donde cualquier persona puede opinar, contar su historia\
+    \ o denunciar injusticias con libertad y anonimato.\n• *Memoria histórica:* Damos\
+    \ visibilidad a hechos del pasado para entender cómo surgen y evolucionan los\
+    \ regímenes autoritarios.\n• *Accesibilidad global:* Facilitamos el acceso a la\
+    \ información desde cualquier lugar del mundo, sin restricciones.\n\n*Nuestros\
+    \ valores*\n• *Transparencia:* Siempre indicamos la fuente de cada noticia.\n\
+    • *Independencia:* No respondemos a intereses políticos ni empresariales.\n• *Libertad\
+    \ creadora:* Al estilo de Wikipedia, cualquier persona puede proponer, crear o\
+    \ mejorar contenidos.\n• *Privacidad:* Nos comprometemos a proteger la identidad\
+    \ y los datos de quienes usan este bot. Para más información sobre cómo navegar\
+    \ de forma segura, consulta este artículo: [enlace pendiente].\n\n*Sobre la tecnología*\n\
+    Este proyecto se construye con tecnologías de la comunidad open source: desde\
+    \ el editor de código hasta las bibliotecas de Python que utiliza el bot. Gracias\
+    \ a desarrolladores y desarrolladoras que comparten su trabajo libremente, este\
+    \ proyecto es posible.\n\nA todas las personas que contribuyen al software libre:\
+    \ _gracias_.\n    "
+  preguntas frecuentes: "\n*Preguntas Frecuentes (FAQ)*\n\n*¿Hay algun metodo de contacto\
+    \ con el creador del bot?*\nSí, mi correo electronico es PONER CORREO. Puedes\
+    \ contactarme por cualquier motivo pero se agradece que me propongan nuevas fuentes\
+    \ de noticias para que lo use el bot.\n\n*¿Por qué el tema de actualidad lo gestiona\
+    \ un bot y no personas?*  \n• Para que la sección de *actualidad* cumpla su función,\
+    \ es necesario que esté constantemente actualizada, idealmente las 24 horas del\
+    \ día y los 7 días de la semana.  \n• Pedirle ese nivel de compromiso a una persona\
+    \ voluntaria —que tiene familia, trabajo, responsabilidades y vida personal— no\
+    \ solo es poco realista, sino también insostenible.  \n• En cambio, un bot sí\
+    \ puede trabajar de forma ininterrumpida, escaneando fuentes y recopilando noticias\
+    \ relevantes de manera automática.  \n• Esto no elimina la posibilidad de intervención\
+    \ humana: el sistema está diseñado para recibir feedback de los lectores.\n\n\
+    *¿Por qué usan Telegram como plataforma?*  \nTelegram es una red social con fuerte\
+    \ presencia global, cifrado y políticas de privacidad que dificultan la censura.\
+    \ Para bloquear nuestro bot, sería necesario prohibir toda la aplicación, lo que\
+    \ lo hace más resistente frente a regímenes autoritarios.\n\n*¿Por qué un bot\
+    \ y no un canal o grupo?*  \nLos bots ofrecen privacidad, son interactivos y más\
+    \ difíciles de rastrear o bloquear que canales o grupos. Los canales pueden ser\
+    \ cerrados con facilidad, y los grupos no garantizan privacidad para los participantes.\n\
+    \n*¿Este bot guarda mis datos?*  \nNo. Solo se almacena el ID de los administradores.\
+    \ Para los usuarios estándar, se verifica temporalmente su ID para identificar\
+    \ si tienen permisos, pero no se guarda ni se rastrea ningún dato.\n\n*¿Puedo\
+    \ confiar en el contenido que publican?*  \nSí. Las noticias actuales se recopilan\
+    \ automáticamente de fuentes abiertas. Las demás secciones son gestionadas por\
+    \ la comunidad y están sujetas a revisión.\n\n*¿Puedo colaborar con el proyecto?*\
+    \  \nSí. Puedes:\n\n• Publicar contenido directamente desde el bot.  \n• Sugerir\
+    \ mejoras al funcionamiento.  \n• Participar en el desarrollo técnico en GitHub.\n\
+    \nTodas las colaboraciones son valiosas, siempre que mantengan un mínimo de calidad,\
+    \ veracidad y respeto.\n\n*¿Qué pasa si bloquean Telegram en Venezuela?*  \nSe\
+    \ tiene previsto desarrollar versiones alternativas: una plataforma web convencional\
+    \ y eventualmente una versión .onion accesible desde la red Tor, para garantizar\
+    \ el acceso incluso en condiciones extremas de censura.\n\n*¿Está disponible en\
+    \ otros idiomas?*  \nPor ahora solo en español. En el futuro se planea expandir\
+    \ a otros idiomas para informar a la diáspora venezolana y a la comunidad internacional\
+    \ interesada.\n\n*¿Quién está detrás del proyecto?*  \nSomos un proyecto ciudadano\
+    \ e independiente que busca facilitar el acceso a noticias relacionadas con Venezuela,\
+    \ de forma clara, organizada y actualizada. Nuestro objetivo es ofrecer un espacio\
+    \ informativo accesible, sin ruido ni distracciones, para cualquier persona interesada\
+    \ en comprender lo que ocurre en el país.\n\n*¿Qué puedo hacer si no veo noticias\
+    \ nuevas?*  \nLas noticias se generan automáticamente. Si notas poca actividad,\
+    \ puede deberse a falta de fuentes ese día o a ajustes en el sistema. Siempre\
+    \ puedes colaborar compartiendo fuentes de noticias independientes al correo electronico.\n\
+    \n*¿Es seguro usar este bot?*  \nSí. El bot fue diseñado con la privacidad en\
+    \ mente. No se guarda información innecesaria, y Telegram ofrece un entorno relativamente\
+    \ seguro. Se recomienda igualmente mantener buenas prácticas digitales.\n    "
+  politica de privacidad: "\n*Política de Privacidad*\nÚltima actualización: 10 de\
+    \ julio de 2025\n\nEl presente documento establece la Política de Privacidad del\
+    \ bot de noticias sobre Venezuela (en adelante, el Bot). Al interactuar con el\
+    \ Bot, aceptas los términos aquí descritos.\n\n*Presentación:* Este bot ha sido\
+    \ creado con el objetivo de facilitar el acceso a información relacionada con\
+    \ Venezuela. Valoramos la privacidad de todos los usuarios, por lo que se ha diseñado\
+    \ respetando los principios de privacidad por defecto y mínima recopilación de\
+    \ datos.\n\n*¿Qué datos se recopilan?*  \n• Solo se almacena el ID de los usuarios\
+    \ con rol administrativo.  \n• Los usuarios estándar no tienen ningún dato guardado,\
+    \ ni siquiera su ID.  \n• El bot puede acceder temporalmente al ID de los usuarios\
+    \ al iniciar para verificar si tienen permisos administrativos, pero no se almacena\
+    \ nada en ese caso.\n• El feedback proporcionado voluntariamente en la sección\
+    \ \"Actualidad\" es almacenado temporalmente hasta que alguno de los administradores\
+    \ lo revisa\n\n*¿Para qué se usan los datos?*  \n• Los ID almacenados de administradores\
+    \ se utilizan exclusivamente para otorgar funciones de moderación y control de\
+    \ contenido.\n• No se utiliza ningún sistema de analítica ni rastreo de comportamiento.\n\
+    • El feedback proporcionado es usado para ir mejorando el bot noticiero\n\n*¿Se\
+    \ comparten datos con terceros?*  \nNo. Ningún dato es vendido, compartido ni\
+    \ cedido bajo ninguna circunstancia.\n\n*Transparencia y código abierto*  \n•\
+    \ Todo el código fuente del bot es público y puede ser auditado en GitHub.\n\n\
+    Si tienes dudas o sugerencias relacionadas con la privacidad, puedes escribirnos\
+    \ por el canal oficial o contribuir directamente en el repositorio.\n    "
+  aviso legal: "\n*Aviso Legal*  \n• Toda la información publicada es responsabilidad\
+    \ de sus autores. Las contribuciones ciudadanas están sujetas a moderación para\
+    \ garantizar el cumplimiento de nuestras normas de calidad y respeto.\n• No nos\
+    \ hacemos responsables por el mal uso de la herramienta ni por posibles interpretaciones\
+    \ erróneas del contenido compartido por terceros.  \n• Las fuentes automáticas\
+    \ son seleccionadas cuidadosamente, pero pueden contener errores o sesgos ajenos\
+    \ al proyecto. En caso de detectar información incorrecta o malintencionada, agradecemos\
+    \ el reporte a través del canal oficial.  \n• Este proyecto no tiene vínculos\
+    \ con partidos políticos, empresas ni entidades gubernamentales.\n• El código\
+    \ fuente de este bot se encuentra disponible públicamente y está protegido por\
+    \ la licencia *MIT* puede leer más información de la licencia aquí: https://opensource.org/license/mit\n\
+    • El uso de este bot implica la aceptación de sus condiciones de uso, así como\
+    \ del respeto a los valores de transparencia, libertad de expresión responsable\
+    \ y colaboración ciudadana.\n    "
