@@ -1,0 +1,35 @@
+{
+    "denuncias": {
+        "Preubas": [
+            {
+                "titulo": "Denuncia de prueba",
+                "resumen": "Esta es una denuncia de prueba",
+                "autor": "Hack My Smile",
+                "fecha": "15/07/2025",
+                "texto": "oerfwj2ewiflkhe2f2olwnewojnafoe2lqjnfo2oqifjwkiokñájik3nef"
+            }
+        ]
+    },
+    "historias": {
+        "Pruebas": [
+            {
+                "titulo": "Denuncia de prueba",
+                "resumen": "Esta es una denuncia de prueba",
+                "autor": "Hack My Smile",
+                "fecha": "15/07/2025",
+                "texto": "oerfwj2ewiflkhe2f2olwnewojnafoe2lqjnfo2oqifjwkiokñájik3nef"
+            }
+        ]
+    },
+    "opiniones": {
+        "Pruebas": [
+            {
+                "titulo": "Denuncia de prueba",
+                "resumen": "Esta es una denuncia de prueba",
+                "autor": "Hack My Smile",
+                "fecha": "15/07/2025",
+                "texto": "oerfwj2ewiflkhe2f2olwnewojnafoe2lqjnfo2oqifjwkiokñájik3nef"
+            }
+        ]
+    }
+}
