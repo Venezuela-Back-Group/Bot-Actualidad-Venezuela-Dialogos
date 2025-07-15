@@ -1,0 +1,126 @@
+botones_estandar:
+  menu principal:
+    actualidad: 🗞️ Actualidad
+    noticias pasadas: 📜 Noticias Pasadas
+    voz ciudadana: 📢 Voz Ciudadana
+    quienes somos: 👤 ¿Quiénes somos?
+    preguntas frecuentes: ❓ Preguntas Frecuentes
+    politica de privacidad: 📄 Política de Privacidad
+    aviso legal: ⚖️ Aviso Legal
+  volver: 🔙 Volver
+  voz_ciudadana:
+    denuncias: 📢 Denuncias
+    historias: 📖 Historias
+    opiniones: 💭 Opiniones
+    crear articulo: ✍️ Crear articulo
+  
+dialogos_estandar:
+  menu principal: Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela.
+
+  quienes somos: |
+    *¿Quiénes somos?*
+    Somos un proyecto ciudadano e independiente que nació de una necesidad urgente: acceder a información confiable, clara y sin censura sobre lo que ocurre en Venezuela. Queremos que cualquier persona —dentro o fuera del país— pueda entender lo que está pasando, sin ruido ni distracciones.
+    
+    *Nuestros objetivos*
+    • *Todo en un solo lugar:* Recopilamos y clasificamos noticias relevantes sobre Venezuela, provenientes de múltiples fuentes.
+    • *Contra la censura:* Creamos un espacio donde cualquier persona puede opinar, contar su historia o denunciar injusticias con libertad y anonimato.
+    • *Memoria histórica:* Damos visibilidad a hechos del pasado para entender cómo surgen y evolucionan los regímenes autoritarios.
+    • *Accesibilidad global:* Facilitamos el acceso a la información desde cualquier lugar del mundo, sin restricciones.
+
+    *Nuestros valores*
+    • *Transparencia:* Siempre indicamos la fuente de cada noticia.
+    • *Independencia:* No respondemos a intereses políticos ni empresariales.
+    • *Libertad creadora:* Al estilo de Wikipedia, cualquier persona puede proponer, crear o mejorar contenidos
+    • *Privacidad:* Nos comprometemos a proteger la identidad y los datos de quienes usan este bot.
+
+  preguntas frecuentes: |
+    *Preguntas frecuentes*
+    *¿Cómo puedo contactar al creador del bot?*\n
+    Puedes escribir al correo electrónico: v.back@outlook.es. Es bienvenida toda clase de mensajes contructivos.
+
+    *¿Me encontré con información sobre Venezuela, la puedo subir al bot?*
+    Sí, siempre que sea información seria y basada en hechos verificables. No se aceptan rumores ni suposiciones sin fundamento.
+
+    *¿Por qué la sección de actualidad la gestiona un bot?*
+    Porque se necesita actualizar contenido las 24 horas del día. Un bot puede trabajar 24/7, a diferencia de una persona que no puede debido a sus responsabilidades diarias.
+
+    *¿Por qué usan Telegram y no otra plataforma?*
+    Telegram ofrece privacidad, cifrado y es más difícil de censurar debido a que es una app de mensajería bastante usada. Además, los bots de telegram suelen dar buenos resultados sin demasiado esfuerzo
+    
+    *¿El bot guarda mis datos?*
+    No. Solo se almacena el ID de los administradores. A los usuarios estandar no se les almacena nada.
+    
+    *Puedo confiar en las noticias?*\n
+    Sí. Las fuentes de actualidad son públicas y verificables. El resto del contenido es moderado por la comunidad.
+
+    *¿Puedo colaborar?*
+    Sí. Puedes publicar contenido, proponer mejoras o participar desde GitHub. Toda ayuda es bienvenida si respeta calidad y veracidad.
+
+    *¿Qué pasa si bloquean Telegram?*
+    Se planean versiones alternativas, como una plataforma web y una versión accesible desde Tor (.onion).
+
+    *¿Está disponible en otros idiomas?*
+    Por ahora solo en español, pero se planea ampliarlo.
+
+    *¿Quién está detrás del proyecto?*
+    Es un proyecto hecho por ciudadanos de forma independiente.
+
+    *¿Y si no veo noticias nuevas?*
+    A veces hay menos fuentes disponibles. Puedes colaborar enviando medios independientes al correo.
+
+    *¿Es seguro usar el bot?*
+    Sí. Se diseñó con la privacidad en mente y no almacena información personal. Aun así, se recomienda mantener buenas prácticas digitales.
+
+  politica de privacidad: |
+    "*Política de Privacidad*
+    *Última actualización:* 15 de julio de 2025
+
+    El presente documento establece la Política de Privacidad del Bot Actualidad Venezuela (en adelante, el Bot).
+    Al interactuar con el Bot, aceptas los términos aquí descritos.
+    
+    *Presentación:*
+    Este bot ha sido creado con el objetivo de facilitar el acceso a información relacionada con Venezuela. Valoramos la privacidad de todos los usuarios, por lo que se ha diseñado respetando los principios de privacidad por defecto y mínima recopilación de datos.
+    
+    *¿Qué datos se recopilan?*
+    • Solo se almacena el ID de los usuarios con rol administrativo.
+    • Los usuarios estándar no tienen ningún dato guardado, ni siquiera su ID.
+    • El bot puede acceder temporalmente al ID de los usuarios al iniciar para verificar si tienen permisos administrativos, pero no se almacena nada en ese caso.
+    • El feedback proporcionado voluntariamente en la sección 'Actualidad' es almacenado temporalmente hasta que alguno de los administradores lo revisa
+    
+    *¿Para qué se usan los datos?*
+    • Los ID almacenados de administradores se utilizan exclusivamente para otorgar funciones de moderación y control de contenido.
+    • No se utiliza ningún sistema de analítica ni rastreo de comportamiento.
+    • El feedback proporcionado es usado para ir mejorando el bot noticiero.
+    
+    *¿Se comparten datos con terceros?*
+    No. Ningún dato es vendido, compartido ni cedido bajo ninguna circunstancia.
+
+    *Transparencia y código abierto*
+    Todo el código fuente del bot es público y puede ser auditado en GitHub.
+
+    Si tienes dudas o sugerencias relacionadas con la privacidad, puedes escribirnos por el correo electronico o contribuir directamente en el repositorio."
+
+  aviso legal: |
+    *Aviso Legal*
+  
+    Toda la información publicada es responsabilidad de sus autores. Las contribuciones ciudadanas están sujetas a moderación para garantizar el cumplimiento de nuestras normas de calidad y respeto.
+    No nos hacemos responsables por el mal uso de la herramienta ni por posibles interpretaciones erróneas del contenido compartido por terceros.
+    Las fuentes automáticas son seleccionadas cuidadosamente, pero pueden contener errores o sesgos ajenos al proyecto. En caso de detectar información incorrecta o malintencionada, agradecemos el reporte a través del canal oficial.
+    Este proyecto no tiene vínculos con partidos políticos, empresas ni entidades gubernamentales.
+    El código fuente de este bot se encuentra disponible públicamente y está protegido por la licencia *MIT* puede leer más información de la licencia aquí: https://opensource.org/license/mit
+    El uso de este bot implica la aceptación de sus condiciones de uso.
+
+  ayuda: |
+    "*Hola. El único comando disponible, además de* `/help` *(que estás leyendo ahora), es* `/start`.
+    Esto se ha hecho con el objetivo de simplificar el uso del bot.
+    Puedes navegar por los distintos menús que aparecerán al iniciarlo. Simplemente haz clic en el botón que te interese. ¡Y listo!
+
+  voz ciudadana: |
+   *Voz Ciudadana*
+
+    Esta es la sección donde cualquier persona puede aportar información relevante sobre la realidad del país. Aquí se pueden compartir hechos, historias personales y opiniones de forma libre y descentralizada.
+    Cada publicación será clasificada en:
+    • *Denuncias:* Requieren pruebas claras y serán revisadas con especial rigor. Por motivos técnicos, este tipo de aportes deben enviarse por correo electrónico: v.back@outlook.es
+    • *Historias:* Testimonios que ayudan a comprender mejor el día a día de los ciudadanos.
+    • *Opiniones:* Reflexiones personales que enriquecen el debate público, aunque no cuenten como fuente verificable.
+    Queremos que la verdad tenga voz, y que esa voz sea la del pueblo. Comparte con responsabilidad.
