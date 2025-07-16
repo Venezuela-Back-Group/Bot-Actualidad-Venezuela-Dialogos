@@ -9,7 +9,7 @@ botones_estandar:
     aviso legal: ⚖️ Aviso Legal
   volver: 🔙 Volver
   voz_ciudadana:
-    denuncias: 📢 Denuncias
+    reportes en el terreno: 📢 Reportes en el terreno
     historias: 📖 Historias
     opiniones: 💭 Opiniones
     crear articulo: ✍️ Crear articulo
@@ -120,7 +120,7 @@ dialogos_estandar:
 
     Esta es la sección donde cualquier persona puede aportar información relevante sobre la realidad del país. Aquí se pueden compartir hechos, historias personales y opiniones de forma libre y descentralizada.
     Cada publicación será clasificada en:
-    • *Denuncias:* Requieren pruebas claras y serán revisadas con especial rigor. Por motivos técnicos, este tipo de aportes deben enviarse por correo electrónico: v.back@outlook.es
+    • *Reportes en el terreno:* Requieren pruebas claras (a poder ser audiovisuales) y serán revisadas con especial rigor. Por motivos técnicos, este tipo de aportes deben enviarse por correo electrónico: v.back@outlook.es
     • *Historias:* Testimonios que ayudan a comprender mejor el día a día de los ciudadanos.
     • *Opiniones:* Reflexiones personales que enriquecen el debate público, aunque no cuenten como fuente verificable.
     Queremos que la verdad tenga voz, y que esa voz sea la del pueblo. Comparte con responsabilidad.
