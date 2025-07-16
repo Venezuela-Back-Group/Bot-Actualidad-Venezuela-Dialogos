@@ -15,7 +15,7 @@ botones_estandar:
     crear articulo: ✍️ Crear articulo
   
 dialogos_estandar:
-  menu principal: Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela.
+  menu principal: Bienvenido, en este espacio encontrarás una gran recopilación de noticias relacionadas con Venezuela. Para continuar, haga click en uno de los botones que se muestran abajo.
 
   quienes somos: |
     *¿Quiénes somos?*
