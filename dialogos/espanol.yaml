@@ -124,3 +124,12 @@ dialogos_estandar:
     • *Historias:* Testimonios que ayudan a comprender mejor el día a día de los ciudadanos.
     • *Opiniones:* Reflexiones personales que enriquecen el debate público, aunque no cuenten como fuente verificable.
     Queremos que la verdad tenga voz, y que esa voz sea la del pueblo. Comparte con responsabilidad.
+
+  leer articulo: |
+    *{noticia["titulo"]}*
+
+    *Creado por:* _{noticia["autor"]}_
+    *Fecha:* _{noticia["fecha"]}_
+    *Resumen:* _{noticia["resumen"]}_
+
+    {noticia["texto"]}
