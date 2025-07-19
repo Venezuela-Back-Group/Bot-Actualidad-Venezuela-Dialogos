@@ -127,9 +127,9 @@ dialogos_estandar:
 
   leer articulo: |
     *{noticia["titulo"]}*
-
+  
     *Creado por:* _{noticia["autor"]}_
     *Fecha:* _{noticia["fecha"]}_
     *Resumen:* _{noticia["resumen"]}_
-
+  
     {noticia["texto"]}
