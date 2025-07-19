@@ -126,10 +126,10 @@ dialogos_estandar:
     Queremos que la verdad tenga voz, y que esa voz sea la del pueblo. Comparte con responsabilidad.
 
   leer articulo: |
-    *titulo*
+    *{titulo}*
 
-    *Creado por:* _autor_
-    *Fecha:* _fecha_
-    *Resumen:* _resumen_
+    *Creado por:* _{autor}_
+    *Fecha:* _{fecha}_
+    *Resumen:* _{resumen}_
   
-    texto
+    {texto}
